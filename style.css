@@ -15,7 +15,7 @@ html {
 body {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(153, 170, 211, 0.5), rgba(29, 60, 156, 0.5)), url('images/mobile-peter-walking-on-water.png');
+  background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/mobile-peter-walking-on-water.png');
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100% 100%;
@@ -56,11 +56,6 @@ body {
   padding: 50px;
 }
 
-.center-content {
-  border: 3px solid rgba(214, 151, 151, 0.42);
-  background-color: rgba(214, 151, 151, 0.42);
-}
-
 .container .center-content {
   display: flex;
   justify-content: center;
@@ -73,19 +68,6 @@ p {
   padding: 50px;
 }
 
-.border h3 {
-  border: 3px solid rgba(214, 151, 151, 0.42);
-  background-color: rgba(214, 151, 151, 0.42);
-}
-
-.header-title {
-  border: 3px solid rgba(214, 151, 151, 0.42);
-  background-color: rgba(214, 151, 151, 0.42);
-  height: 250px;
-  padding-top: 50px;
-  margin-top: -50px;
-}
-
 /* ===========================*\
           Desktop
   *\=========================== */
@@ -93,7 +75,7 @@ p {
 @media all and (min-width: 768px) {
   /* body */
   body {
-    background-image: linear-gradient(rgba(153, 170, 211, 0.5), rgba(29, 60, 156, 0.5)), url('images/peter-walking-on-water.jpg');
+    background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/peter-walking-on-water.jpg');
   }
 
   /* ===========================*\
@@ -131,15 +113,5 @@ p {
   .container ol {
     font-size: 2rem;
     padding: 50px;
-  }
-
-  .border h3 {
-    border: 3px solid rgba(214, 151, 151, 0.42);
-    background-color: rgba(214, 151, 151, 0.42);
-  }
-
-  .center-content {
-    border: 3px solid rgba(214, 151, 151, 0.42);
-    background-color: rgba(214, 151, 151, 0.42);
   }
 }
