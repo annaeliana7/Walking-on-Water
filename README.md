@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://ADD LINK.git)
+[Walking on Water](https://annaeliana7.github.io/Walking-On-Water/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,9 +65,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Walking-On-Water.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Walking on Water`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -88,9 +88,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Walking-On-Water.git
 
-- Go to the repository folder using command prompt cd To
+- Go to the repository folder using command prompt cd Walking-on-Water
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -113,7 +113,6 @@ Anna Petras
 
 - Implement some UX improvements: added transitions and/or animation.
 
-- Implement additional pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +121,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Walking-On-Water/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

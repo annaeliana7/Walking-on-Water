@@ -101,7 +101,7 @@ p {
   *\=========================== */
 
   .container {
-    animation: anna 3s;
+    animation: anna 5s;
   }
 
   @keyframes anna {
