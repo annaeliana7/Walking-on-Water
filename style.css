@@ -41,19 +41,22 @@ body {
   padding: 2rem;
   font-size: 5rem;
   text-decoration: underline;
+  padding-bottom: 0px;
 }
 
 .container h3 {
   font-size: 3.5rem;
-  padding: 50px;
+  padding: 100px;
   text-decoration: underline;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .container ol {
   display: flex;
   flex-direction: column;
   font-size: 2rem;
-  padding: 50px;
+  padding: 100px;
 }
 
 .container .center-content {
@@ -65,7 +68,7 @@ body {
 p {
   color: white;
   font-size: 25px;
-  padding: 50px;
+  padding: 100px;
 }
 
 /* ===========================*\
