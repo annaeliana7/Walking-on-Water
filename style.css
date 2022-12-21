@@ -44,7 +44,7 @@ body {
 }
 
 .container h3 {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   padding: 50px;
   text-decoration: underline;
 }
@@ -65,7 +65,7 @@ body {
 p {
   color: white;
   font-size: 25px;
-  padding: 90px;
+  padding: 50px;
 }
 
 /* ===========================*\
@@ -105,13 +105,13 @@ p {
   }
 
   .container h3 {
-    font-size: 3rem;
-    padding: 90px;
+    font-size: 3.5rem;
+    padding: 50px;
     text-decoration: underline;
   }
 
   .container ol {
     font-size: 2rem;
-    padding: 90px;
+    padding: 70px;
   }
 }
