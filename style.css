@@ -65,7 +65,7 @@ body {
 p {
   color: white;
   font-size: 25px;
-  padding: 50px;
+  padding: 90px;
 }
 
 /* ===========================*\
@@ -106,12 +106,12 @@ p {
 
   .container h3 {
     font-size: 3rem;
-    padding: 50px;
+    padding: 90px;
     text-decoration: underline;
   }
 
   .container ol {
     font-size: 2rem;
-    padding: 50px;
+    padding: 90px;
   }
 }

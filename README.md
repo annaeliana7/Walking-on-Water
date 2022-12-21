@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Walking on Water](https://annaeliana7.github.io/Walking-On-Water/)
+[Walking on Water](https://annaeliana7.github.io/Walking-on-Water/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
