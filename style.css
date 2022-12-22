@@ -3,7 +3,13 @@ body {
   background-color: #333;
   color: #fff;
   margin: 0 auto;
-  }
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/mobile-peter-walking-on-water.png');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+}
 
 .container {
   max-width: 800px;
@@ -40,21 +46,13 @@ ol {
   margin: 0;
 }
 
-body {
-  width: 100%;
-  min-height: 100vh;
-  background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/mobile-peter-walking-on-water.png');
-  background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: 100% 100%;
-}
-
-  /* ===========================*\
+/* ===========================*\
             Desktop
     *\=========================== */
-  
-    @media all and (min-width: 768px) {
-      /* body */
-      body {
-        background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/peter-walking-on-water.jpg');
-      }
+
+@media all and (min-width: 768px) {
+  /* body */
+  body {
+    background-image: linear-gradient(rgba(214, 151, 151, 0.42), rgba(29, 60, 156, 0.5)), url('images/peter-walking-on-water.jpg');
+  }
+}
