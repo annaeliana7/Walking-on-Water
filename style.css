@@ -41,9 +41,13 @@ body {
 }
 
 ol {
-  list-style: none;
-  padding: 0;
+  list-style: decimal;
+  padding: 15px;
   margin: 0;
+}
+
+li {
+  margin: 10px 0;
 }
 
 /* ===========================*\
